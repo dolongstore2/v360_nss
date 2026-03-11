@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.5" apprev="17926" start="node1">
+  <panorama id="node1">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="3">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-23.4356" fovmode="0">
+      <start projection="4" pan="-1.43" fov="45.14" tilt="10.22"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="1" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="53.53" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:16 SA" latitude="10.44773316" customnodeid="" author="" longitude="105.63158568" source="" info="" title="Tượng cụ Nguyễn Sinh Sắc" description="" heading="-23.4356" tags="NguyenSinhSac_DT" comment="" nodeid="node1" copyright="" altitude="4"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_info" url="" target="" pan="-352.12" title="&lt;h4 style=&quot;font-size: 20px;&quot;>Tóm tắt tiểu sử và sự nghiệp của cụ Phó bảng Nguyễn Sinh Sắc&lt;/h4>" description="&lt;p style=&quot;font-size: 20px;text-align: center;&quot;>Tóm tắt tiểu sử và sự nghiệp&lt;/p>&#xa;&lt;p style=&quot;font-size: 20px;text-align: center;&quot;>cụ Phó bảng Nguyễn Sinh Sắc&lt;/p>&#xa;&lt;p style=&quot;text-align: center;&quot;>&lt;img alt=&quot;&quot; src=&quot;http://kdtnss.tpcaolanh.dongthap.gov.vn/userfiles/images/cu%20pho%20bang%2060%20x%2080cm.jpg&quot; style=&quot;border-style:solid; border-width:5px; height:180px; margin:10px; width:134px&quot; />&lt;/p>&#xa;&lt;p style=&quot;text-align: justify;&quot;>Cụ Nguyễn Sinh Sắc sinh năm Nh&amp;acirc;m Tuất (1862) tại l&amp;agrave;ng Kim Li&amp;ecirc;n, huyện Nam Đ&amp;agrave;n tỉnh Nghệ An. Cha l&amp;agrave; Nguyễn Sinh Nhậm, mẹ l&amp;agrave; H&amp;agrave; Thị Hy. L&amp;ecirc;n ba tuổi mồ c&amp;ocirc;i cha, bốn tuổi mẹ qua đời, phải về ở với người anh c&amp;ugrave;ng cha kh&amp;aacute;c mẹ l&amp;agrave; Nguyễn Sinh Trợ.&lt;/p>&#xa;&lt;p style=&quot;text-align: justify;&quot;>&amp;nbsp;&amp;nbsp; Năm 16 tuổi, cậu được nh&amp;agrave; nho Ho&amp;agrave;ng Xu&amp;acirc;n Đường ở l&amp;agrave;ng Ho&amp;agrave;ng Tr&amp;ugrave; (l&amp;agrave;ng Ch&amp;ugrave;a) nhận về nu&amp;ocirc;i dạy, với bản t&amp;iacute;nh hiếu học, th&amp;ocirc;ng minh n&amp;ecirc;n cậu trở th&amp;agrave;nh học tr&amp;ograve; giỏi c&amp;oacute; tiếng trong v&amp;ugrave;ng. Đến năm 22 tuổi (1883), cậu được nh&amp;agrave; nho Ho&amp;agrave;ng Xu&amp;acirc;n Đường gả c&amp;ocirc; con g&amp;aacute;i lớn l&amp;agrave; Ho&amp;agrave;ng Thị Loan. Lần lượt hạ sinh bốn người con: Nguyễn Thị Thanh, Nguyễn Sinh Khi&amp;ecirc;m, Nguyễn Sinh Cung (Hồ Ch&amp;iacute; Minh) v&amp;agrave; Nguyễn Sinh Xin (mất l&amp;uacute;c nhỏ).&lt;/p>&#xa;&lt;p style=&quot;text-align: justify;&quot;>&amp;nbsp;&amp;nbsp; Năm Gi&amp;aacute;p Ngọ (1894), Cụ đỗ Cử nh&amp;acirc;n, năm T&amp;acirc;n Sửu (1901), cụ đỗ Ph&amp;oacute; bảng v&amp;agrave; năm 1906&amp;nbsp; nhậm chức &amp;ldquo; Thừa Biện Bộ Lễ&amp;rdquo; v&amp;agrave; sau đ&amp;oacute; l&amp;agrave; Tri phủ lĩnh nhiệm Tri huyện B&amp;igrave;nh Kh&amp;ecirc; (B&amp;igrave;nh Định).&lt;/p>&#xa;&lt;p style=&quot;text-align: justify;&quot;>Trong thời gian l&amp;agrave;m quan Cụ t&amp;igrave;m gặp v&amp;agrave; kết th&amp;acirc;m giao với c&amp;aacute;c nh&amp;agrave; nho y&amp;ecirc;u nước như: Phan Bội Ch&amp;acirc;u, Phan Ch&amp;acirc;u Trinh, Vương Th&amp;uacute;c Qu&amp;yacute;, Trương Gia M&amp;ocirc;&amp;hellip;.Cụ lu&amp;ocirc;n đứng về ph&amp;iacute;a d&amp;acirc;n ngh&amp;egrave;o, trừng trị bọn cường h&amp;agrave;o &amp;aacute;c b&amp;aacute;. V&amp;igrave; vậy, từ vụ &amp;aacute;n một t&amp;ecirc;n cường h&amp;agrave;o bị Cụ bắt giam, sau đ&amp;oacute; thả về kh&amp;ocirc;ng l&amp;acirc;u th&amp;igrave; chết. Cụ Sắc bị Triều đ&amp;igrave;nh gi&amp;aacute;ng cấp dưới h&amp;igrave;nh thức &amp;ldquo;cải bổ kinh chức&amp;rdquo; (tức l&amp;agrave; đổi về l&amp;agrave;m quan tại kinh đ&amp;ocirc;)&lt;/p>&#xa;&lt;p style=&quot;text-align: justify;&quot;>Từ quan, Cụ đi v&amp;agrave;o c&amp;aacute;c tỉnh ph&amp;iacute;a Nam. Nam bộ l&amp;agrave; v&amp;ugrave;ng đất mới ph&amp;oacute;ng kho&amp;aacute;ng &amp;ldquo;Trọng nghĩa khinh t&amp;agrave;i&amp;rdquo; n&amp;ecirc;n Cụ đi rất nhiều nơi, tiếp x&amp;uacute;c với nhiều th&amp;agrave;nh phần ở những nơi Cụ đến: B&amp;igrave;nh Thuận, S&amp;agrave;i G&amp;ograve;n, Thủ Dầu Một, Tiền Giang, Bến Tre, An Giang, Đồng Th&amp;aacute;p&amp;hellip;v&amp;agrave; sang tận Campuchia để truyền b&amp;aacute; tư tưởng y&amp;ecirc;u nước thương d&amp;acirc;n.&lt;/p>&#xa;&lt;p style=&quot;text-align: justify;&quot;>Năm 1917 v&amp;agrave; nhiều năm sau, Cụ thường lui tới hoạt động ở l&amp;agrave;ng H&amp;ograve;a An, Cao L&amp;atilde;nh tiếp tục truyền b&amp;aacute; chủ nghĩa y&amp;ecirc;u nước trong nh&amp;acirc;n d&amp;acirc;n. Cụ mất v&amp;agrave;o ng&amp;agrave;y 27 th&amp;aacute;ng 10 năm Kỷ Tỵ nhằm ng&amp;agrave;y 27 th&amp;aacute;ng 11 năm 1929 dương lịch, hưởng thọ 67 tuổi tại l&amp;agrave;ng H&amp;ograve;a An, Cao L&amp;atilde;nh, Đồng Th&amp;aacute;p.&lt;/p>&#xa;&lt;p style=&quot;text-align: justify;&quot;>Cụ Ph&amp;oacute; bảng Nguyễn Sinh Sắc l&amp;agrave; nh&amp;agrave; khoa bảng v&amp;agrave;o đầu thế kỷ XX l&amp;uacute;c m&amp;agrave; x&amp;atilde; hội Việt Nam đang trăn trở chuyển m&amp;igrave;nh t&amp;igrave;m phương hướng giải ph&amp;oacute;ng d&amp;acirc;n tộc khỏi &amp;aacute;ch &amp;aacute;p bức của chủ nghĩa thực d&amp;acirc;n, th&amp;igrave; Cụ l&amp;agrave; &amp;ldquo;một nh&amp;agrave; nho y&amp;ecirc;u nước theo kiểu ri&amp;ecirc;ng, chống Ph&amp;aacute;p kh&amp;ocirc;ng c&amp;ocirc;ng khai m&amp;agrave; lặng lẽ&amp;rdquo; như lời nhận định của thực d&amp;acirc;n Ph&amp;aacute;p.&lt;/p>&#xa;&lt;p style=&quot;text-align: justify;&quot;>Nh&amp;acirc;n c&amp;aacute;ch v&amp;agrave; những phẩm chất cao qu&amp;iacute; đ&amp;oacute; c&amp;oacute; ảnh hưởng trực tiếp đến c&amp;aacute;c con của Cụ, đặc biệt l&amp;agrave; Nguyễn Sinh Cung. Trong sự nghiệp hoạt động c&amp;aacute;ch mạng của Chủ tịch Hồ Ch&amp;iacute; Minh đ&amp;atilde; sử dụng nhiều danh xưng từ Nguyễn Sinh Cung đến Nguyễn Tất Th&amp;agrave;nh rồi Nguyễn &amp;Aacute;i Quốc, Hồ Ch&amp;iacute; Minh, tư tưởng y&amp;ecirc;u nước thương d&amp;acirc;n của Cụ đ&amp;atilde; được n&amp;acirc;ng l&amp;ecirc;n đỉnh cao trở th&amp;agrave;nh tư tưởng tiến bộ của chủ nghĩa y&amp;ecirc;u nước đấu tranh giải ph&amp;oacute;ng d&amp;acirc;n tộc c&amp;aacute;c nước thuộc địa bị &amp;aacute;p bức tr&amp;ecirc;n to&amp;agrave;n thế giới.&amp;nbsp;&lt;/p>" tilt="-3.73"/>
+      <hotspot id="Point03" skinid="ht_node" url="{node2}" target="" pan="-178.18" title="Cầu" description="" distance="47.9869" tilt="-4.48"/>
+      <hotspot id="Point06" skinid="ht_node" url="{node4}" target="" pan="-141.24" title="Nhà sàn" description="" distance="97.2318" tilt="-3.74"/>
+      <hotspot id="Point04" skinid="ht_node" url="{node3}" target="" pan="-160.95" title="Ao Sen" description="" tilt="-3.39"/>
+      <hotspot id="Point05" skinid="ht_node" url="{node5}" target="" pan="-178.08" title="Cổng mộ cụ Nguyễn Sinh Sắc" description="" distance="88.9194" tilt="-1.68"/>
+      <hotspot id="Point08" skinid="ht_node" url="{node26}" target="" pan="-357.84" title="" description="" tilt="-4.02"/>
+      <hotspot id="Point02" skinid="ht_info" url="" target="" pan="-252.55" title="nhà Nọc ngựa" description="&lt;p style=&quot;text-align: center;&quot;>MÔ HÌNH NHÀ NỌC NGỰA&lt;/p>&#xa;&#xa;&lt;p style=&quot;text-align: justify;&quot;>Nhà có hàng cột cái giữa nhà chịu lực. Nhà này nhìn bên ngoài thấp, mái bè rộng ra, nhưng bước vào bên trong sẽ thấy hệ thống kèo cột và trần nhà rất cao làm cho nhà thoáng mát vì kiểu mái đó có tác dụng che mưa và ánh nắng chói chang vùng nhiệt đới, đồng thời hạn chế được tầm nhìn từ bên ngoài. Nhà Nọc ngựa thường không có chái hai bên mà có thảo bạt phía sau nối liền nhà chính làm bếp, nơi ăn cơm, nghỉ ngơi.&lt;/p>" tilt="-3.79"/>
+      <hotspot id="Point07" skinid="ht_info" url="" target="" pan="-100.61" title="Nhà Bát Dần" description="&lt;p style=&quot;text-align: center;&quot;>MÔ HÌNH NHÀ BÁT DẦN &lt;/p>&#xa;&#xa;&#xa;&lt;p style=&quot;text-align: justify;&quot;>Nhà Bát dần là một trong những kiểu nhà phổ biến ở làng quê Cao Lãnh – Hòa An. Nhà được xây dựng bằng gỗ trên sàn hoặc nền đất, mái ngói. Nhà có một hoặc ba gian, một bên hay hai bên hông có chái, nối mái nhà từ trước đến sau. Nhờ có chái bên hông nên nhà cất rộng. Lối vô nhà từ hai bên hông, có hiên rộng ở phía trước. Giữa hiên thường đặt một bàn tròn tiếp khách thường; gian giữa phía trong là bàn thờ ông bà, phía ngoài là bộ trường kỷ hoặc bàn dài tiếp khách quý. Hai cửa buồng thông vô hai gian bên là nơi ngủ của gia đình. Gian bếp thường là thảo bạt cất nối nhà chính ở phía sau. &lt;/p>" tilt="-4.23"/>
+      <hotspot id="Point09" skinid="ht_node" url="{node42}" target="" pan="-10.44" title="Cổng vào homestay" description="" distance="33.9233" tilt="-1.19"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" ambientlevel="0.000" pansize="10.000" startmutedmobile="0" level="1.000" loop="1" pan="-348.550" field="90.000" mode="1" tilt="-4.610" tiltsize="10.000" nodechangekeep="0">
+        <source url="media/NguyenSinhSac_01.mp3"/>
+      </sound>
+      <lensflare id="Lensflare01" blinding="50.000" color="0xffffff" pan="-195.530" type="3" tilt="66.180" alpha="80.000"/>
+    </media>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="-2">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="174.7" fov="53.53" tilt="-3.02"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="53.18" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:17 SA" latitude="10.447333" customnodeid="" author="" longitude="105.631750" source="" info="" title="Cầu" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node2" copyright="" altitude="6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point03" skinid="ht_node" url="{node1}" target="" pan="-3.16" title="Tượng cụ Nguyễn Sinh Sắc" description="" distance="47.9869" tilt="1.91"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node5}" target="" pan="-184.06" title="Cổng mộ cụ Nguyễn Sinh Sắc" description="" distance="40.9695" tilt="-6.36"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" ambientlevel="0.000" pansize="10.000" startmutedmobile="0" level="1.000" loop="1" pan="-327.980" field="90.000" mode="3" tilt="-9.400" tiltsize="10.000" nodechangekeep="0">
+        <source url="media/ChimHot_03.mp3"/>
+      </sound>
+      <sound id="Element02" ambientlevel="0.000" pansize="10.000" startmutedmobile="0" level="1.000" loop="1" pan="-150.080" field="90.000" mode="3" tilt="-15.870" tiltsize="10.000" nodechangekeep="0">
+        <source url="media/ChimHot_09.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-99.18" fov="53.18" tilt="-1.43"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:19 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Ao Sen" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node3" copyright="" altitude="13"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node1}" target="" pan="-323.36" title="Tượng cụ Nguyễn Sinh Sắc" description="" tilt="2.63"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node2}" target="" pan="-309.05" title="Cầu" description="" tilt="1.54"/>
+      <hotspot id="Point04" skinid="ht_node" url="{node4}" target="" pan="-85.68" title="Nhà sàn" description="" tilt="-7.6"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" ambientlevel="0.000" pansize="10.000" startmutedmobile="0" level="1.000" loop="1" pan="-285.120" field="90.000" mode="3" tilt="-9.700" tiltsize="10.000" nodechangekeep="0">
+        <source url="media/ChimHot_05.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="-2" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-32.0358" fovmode="0">
+      <start projection="4" pan="-32.42" fov="77.94" tilt="0.15"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:20 SA" latitude="10.44706910" customnodeid="" author="" longitude="105.63216417" source="" info="" title="Nhà sàn" description="" heading="-32.0358" tags="NguyenSinhSac_DT" comment="" nodeid="node4" copyright="" altitude="3"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node11}" target="" pan="-130.78" title="Cổng chính khu tưởng niệm" description="" distance="132.012" tilt="-1.02"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node2}" target="" pan="-334.93" title="Cầu" description="" distance="53.9656" tilt="-0.89"/>
+      <hotspot id="Point03" skinid="ht_node" url="{node1}" target="" pan="-356" title="Tượng cụ Nguyễn Sinh Sắc" description="" distance="97.2318" tilt="1.98"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" ambientlevel="0.000" pansize="10.000" startmutedmobile="0" level="1.000" loop="1" pan="-17.560" field="90.000" mode="3" tilt="-8.140" tiltsize="10.000" nodechangekeep="0">
+        <source url="media/ChimHot_04.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="-1">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-105.097" fovmode="0">
+      <start projection="4" pan="-5.24" fov="53.53" tilt="2.97"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:22 SA" latitude="10.44699991" customnodeid="" author="" longitude="105.63191015" source="" info="" title="Cổng mộ cụ Nguyễn Sinh Sắc" description="" heading="-105.097" tags="NguyenSinhSac_DT" comment="" nodeid="node5" copyright="" altitude="14"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node1}" target="" pan="-92.87" title="Tượng cụ Nguyễn Sinh Sắc" description="" distance="88.9194" tilt="-0.05"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node4}" target="" pan="-180.02" title="Nhà sàn" description="" distance="28.8233" tilt="-1.63"/>
+      <hotspot id="Point03" skinid="ht_node" url="{node7}" target="" pan="-12.35" title="Cổng Đền thờ Cụ" description="" distance="19.1909" tilt="-2.71"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" ambientlevel="0.000" pansize="10.000" startmutedmobile="0" level="1.000" loop="1" pan="-128.680" field="90.000" mode="3" tilt="-18.790" tiltsize="10.000" nodechangekeep="0">
+        <source url="media/ChimHot_04.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input overlap="1" levelbias="0.400" flat="1" width="2250" height="4000" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" cylinder="1" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="2250" height="4000" preload="0" predecode="0"/>
+      <level width="1125" height="2000" preload="0" predecode="0"/>
+      <level width="562" height="1000" preload="0" predecode="0"/>
+      <level width="281" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="1.31" fov="12.49" tilt="43.75"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="12/04/2020 10:19 CH" latitude="" customnodeid="" author="" longitude="" source="" info="" title="" description="" heading="0" tags="HinhChup" comment="" nodeid="node26" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="-4" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="-1">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-47" fovmode="0">
+      <start projection="4" pan="-14.42" fov="35.26" tilt="3.81"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:23 SA" latitude="10.446861" customnodeid="" author="" longitude="105.631806" source="" info="" title="Cổng Đền thờ Cụ" description="" heading="-47" tags="NguyenSinhSac_DT" comment="" nodeid="node7" copyright="" altitude="4"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node5}" target="" pan="-106.6" title="Cổng mộ cụ Nguyễn Sinh Sắc" description="" distance="19.1909" tilt="-2.42"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node1}" target="" pan="-35.07" title="Tượng cụ Nguyễn Sinh Sắc" description="" distance="99.9276" tilt="0.64"/>
+      <hotspot id="Point03" skinid="ht_node" url="{node8}" target="" pan="-14.58" title="Bàn thờ Cụ Nguyễn Sinh Sắc" description="" distance="35.9034" tilt="-1.64"/>
+      <hotspot id="Point04" skinid="ht_node" url="{node10}" target="" pan="-306.3" title="Sân mộ Cụ Nguyễn Sinh Sắc" description="" distance="63.8614" tilt="-1.02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="2">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="12.49" fov="60.11" tilt="3.73"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:24 SA" latitude="10.447139" customnodeid="" author="" longitude="105.631639" source="" info="" title="Bàn thờ Cụ Nguyễn Sinh Sắc" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node8" copyright="" altitude="-3"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node9}" target="" pan="-279.5" title="Phòng truyền thống" description="" tilt="-9.11"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node36}" target="" pan="-345.66" title="" description="" tilt="-9.82"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="-1" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="68.74" fov="26.35" tilt="3.27"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:26 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Phòng truyền thống" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node9" copyright="" altitude="22"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node7}" target="" pan="-90.34" title="Cổng Đền thờ Cụ" description="" tilt="0.1"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="-1">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-178.19" fov="26.35" tilt="3.5"/>
+      <flyin projection="4" pan="-171.18" fov="53.53" tilt="1.79"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:30 SA" latitude="10.446861" customnodeid="" author="" longitude="105.631222" source="" info="" title="Sân mộ Cụ Nguyễn Sinh Sắc" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node10" copyright="" altitude="15"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="-2">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-90" fovmode="0">
+      <start projection="4" pan="13.28" fov="47.43" tilt="4.22"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:52 SA" latitude="10.44680459" customnodeid="" author="" longitude="105.63334105" source="" info="" title="Cổng chính khu tưởng niệm" description="" heading="-90" tags="NguyenSinhSac_DT" comment="" nodeid="node11" copyright="" altitude="-18"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node13}" target="" pan="-345.6" title="Cổng phụ nhà trưng bày" description="" distance="121.08" tilt="-3.05"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="2">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:55 SA" latitude="10.446500" customnodeid="" author="" longitude="105.632278" source="" info="" title="Cổng phụ nhà trưng bày" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node13" copyright="" altitude="3"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node22}" target="" pan="-47.06" title="Cổng chính nhà trưng bày" description="" distance="53.9997" tilt="-3.69"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node14}" target="" pan="-4.84" title="Phòng trưng bày 7" description="" distance="6.86974" tilt="-4.77"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-177.46" fov="45.14" tilt="3.06"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:56 SA" latitude="10.446472" customnodeid="" author="" longitude="105.632222" source="" info="" title="Phòng trưng bày 7" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node14" copyright="" altitude="4"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node15}" target="" pan="-325.67" title="Phòng trưng bày 6" description="" tilt="-21.79"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node13}" target="" pan="-225.63" title="Cổng phụ nhà trưng bày" description="" distance="6.86974" tilt="-14.18"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-141.33" fov="45.14" tilt="-3.46"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:56 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Phòng trưng bày 6" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node15" copyright="" altitude="23"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node14}" target="" pan="-86.88" title="Phòng trưng bày 7" description="" tilt="-12.5"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node40}" target="" pan="-2.36" title="Mô hình tỉnh Nghệ Tĩnh tặng" description="" tilt="-9.57"/>
+      <hotspot id="Point03" skinid="ht_node" url="{node41}" target="" pan="-31.23" title="Mô hình Quốc Tử Giám" description="" tilt="-29.59"/>
+      <hotspot id="Point04" skinid="ht_node" url="{node16}" target="" pan="-25.07" title="Phòng trưng bày 5" description="" tilt="-8.13"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="2">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="177.72" fov="53.07" tilt="-4.32"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:57 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Phòng trưng bày 5" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node16" copyright="" altitude="17"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node15}" target="" pan="-86.32" title="Phòng trưng bày 6" description="" tilt="-9.51"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node17}" target="" pan="-267.18" title="Phòng trưng bày 4" description="" tilt="-10.45"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-166.53" fov="42.2" tilt="-4.6"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:58 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Phòng trưng bày 4" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node17" copyright="" altitude="27"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node18}" target="" pan="-275.05" title="Phòng trưng bày 3" description="" tilt="-16.06"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node38}" target="" pan="-160.26" title="Mộc bản 1" description="" tilt="-18.83"/>
+      <hotspot id="Point03" skinid="ht_node" url="{node39}" target="" pan="-167.18" title="Mộc bản 2" description="" tilt="-19.63"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-158.51" fov="42.2" tilt="-3.11"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:59 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Phòng trưng bày 3" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node18" copyright="" altitude="24"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node17}" target="" pan="-86.88" title="Phòng trưng bày 4" description="" tilt="-9.31"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node19}" target="" pan="-358.24" title="Phòng trưng bày 2" description="" tilt="-6.28"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="175.07" fov="57.5" tilt="-5.57"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:59 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Phòng trưng bày 2" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node19" copyright="" altitude="4"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node28}" target="" pan="-177.03" title="Hình đám tang" description="" tilt="-6.38"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node18}" target="" pan="-93.8" title="Phòng trưng bày 3" description="" tilt="-3.28"/>
+      <hotspot id="Point03" skinid="ht_node" url="{node20}" target="" pan="-301.13" title="Phòng trưng bày 1" description="" tilt="-14.66"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 5:00 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Phòng trưng bày 1" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node20" copyright="" altitude="9"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node19}" target="" pan="-238.49" title="Phòng trưng bày 2" description="" tilt="-18.39"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="3">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="6.04" fov="47.43" tilt="1.95"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 5:00 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Tượng Cụ - Phòng trưng bày" description="" heading="0" tags="NguyenSinhSac_DT" comment="" nodeid="node21" copyright="" altitude="4"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node20}" target="" pan="-90.58" title="Phòng trưng bày 1" description="" tilt="-9.66"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="2">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="149" fovmode="0">
+      <start projection="4" pan="-3.4" fov="88.95" tilt="5.71"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 5:01 SA" latitude="10.44655377" customnodeid="" author="" longitude="105.63178722" source="" info="" title="Cổng chính nhà trưng bày" description="" heading="149" tags="NguyenSinhSac_DT" comment="" nodeid="node22" copyright="" altitude="2"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node21}" target="" pan="-2.51" title="Tượng Cụ - Phòng trưng bày" description="" tilt="0.26"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:14 SA" latitude="10.448306" customnodeid="" author="" longitude="105.632111" source="" info="" title="Cầu vào làng" description="" heading="0" tags="Pano2VR6" comment="" nodeid="node23" copyright="" altitude="-5"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_info" url="" target="" pan="-123.57" title="Nhà cụ Sắc" description="" tilt="-5.22"/>
+      <hotspot id="Point02" skinid="ht_info" url="" target="" pan="-80.34" title="Nhà ông Năm Giáo" description="" tilt="-1.9"/>
+      <hotspot id="Point03" skinid="ht_node" url="{node42}" target="" pan="-106.33" title="Cổng vào homestay" description="" distance="69.4796" tilt="-3.09"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" ambientlevel="0.000" pansize="10.000" startmutedmobile="0" level="1.000" loop="1" pan="-230.910" field="90.000" mode="3" tilt="-13.590" tiltsize="10.000" nodechangekeep="0">
+        <source url="media/ChimHot_07.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="7.7" fov="20.7" tilt="3.25"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:13 SA" latitude="10.448333" customnodeid="" author="" longitude="105.632361" source="" info="" title="Cổng vào làng Hòa An xưa" description="" heading="0" tags="Pano2VR6" comment="" nodeid="node24" copyright="" altitude="15"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" ambientlevel="0.000" pansize="10.000" startmutedmobile="0" level="1.000" loop="1" pan="-223.870" field="90.000" mode="3" tilt="-11.260" tiltsize="10.000" nodechangekeep="0">
+        <source url="media/ChimHot_08.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input overlap="1" levelbias="0.400" width="1520" height="1520" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="1">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-81.8617" fovmode="0">
+      <start projection="4" pan="2.62" fov="37.09" tilt="9.46"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 4:11 SA" latitude="10.448528" customnodeid="" author="" longitude="105.632972" source="" info="" title="Cổng phụ khu tưởng niệm" description="" heading="-81.8617" tags="Pano2VR6" comment="" nodeid="node25" copyright="" altitude="8"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node24}" target="" pan="-356.92" title="Cổng vào làng Hòa An xưa" description="" distance="70.2439" tilt="1.4"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input overlap="1" levelbias="0.400" width="1000" height="1000" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-60.4952"/>
+      <max fovstereographic="270" pan="180" fovfisheye="360" fov="120" tilt="60.4952"/>
+    </view>
+    <userdata datetime="09/11/2019 11:27 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="" description="" heading="0" tags="HinhChup" comment="" nodeid="node27" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input overlap="1" levelbias="0.400" flat="1" width="4000" height="2250" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" cylinder="1" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="4000" height="2250" preload="0" predecode="0"/>
+      <level width="2000" height="1125" preload="0" predecode="0"/>
+      <level width="1000" height="562" preload="0" predecode="0"/>
+      <level width="500" height="281" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-2.46" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 11:25 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Hình đám tang" description="" heading="0" tags="HinhChup" comment="" nodeid="node28" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input overlap="1" levelbias="0.400" flat="1" width="4000" height="2250" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" cylinder="1" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="4000" height="2250" preload="0" predecode="0"/>
+      <level width="2000" height="1125" preload="0" predecode="0"/>
+      <level width="1000" height="562" preload="0" predecode="0"/>
+      <level width="500" height="281" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-4.1" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 11:25 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Hình làng quê" description="" heading="0" tags="HinhChup" comment="" nodeid="node29" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input overlap="1" levelbias="0.400" flat="1" width="4000" height="2250" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" cylinder="1" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="4000" height="2250" preload="0" predecode="0"/>
+      <level width="2000" height="1125" preload="0" predecode="0"/>
+      <level width="1000" height="562" preload="0" predecode="0"/>
+      <level width="500" height="281" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="4.69" fov="92.44" tilt="-0.38"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 11:27 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Trống Đồng" description="" heading="0" tags="HinhChup" comment="" nodeid="node30" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input overlap="1" levelbias="0.400" flat="1" width="4000" height="2250" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" cylinder="1" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="4000" height="2250" preload="0" predecode="0"/>
+      <level width="2000" height="1125" preload="0" predecode="0"/>
+      <level width="1000" height="562" preload="0" predecode="0"/>
+      <level width="500" height="281" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="10.08" fov="61" tilt="0.85"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 11:27 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Trống đồng Đông Sơn" description="" heading="0" tags="HinhChup" comment="" nodeid="node34" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node35">
+    <input overlap="1" levelbias="0.400" flat="1" width="4000" height="2250" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" cylinder="1" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="4000" height="2250" preload="0" predecode="0"/>
+      <level width="2000" height="1125" preload="0" predecode="0"/>
+      <level width="1000" height="562" preload="0" predecode="0"/>
+      <level width="500" height="281" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="6.17" fov="55.19" tilt="22.41"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 12:04 CH" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Mộ cụ Nguyễn Sinh Sắc" description="" heading="0" tags="HinhChup" comment="" nodeid="node35" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node36">
+    <input overlap="1" levelbias="0.400" flat="1" width="945" height="628" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" cylinder="1" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="945" height="628" preload="0" predecode="0"/>
+      <level width="472" height="314" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="03/05/2019 2:15 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="" description="" heading="0" tags="HinhChup" comment="" nodeid="node36" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node37">
+    <input overlap="1" levelbias="0.400" width="236" height="236" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="236" height="236" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="-180" fovpixel="2" tilt="-64.4772"/>
+      <max fovstereographic="270" pan="180" fovfisheye="360" fov="120" tilt="64.4772"/>
+    </view>
+    <userdata datetime="03/05/2019 2:29 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="" description="" heading="0" tags="HinhChup" comment="" nodeid="node37" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node38">
+    <input overlap="1" levelbias="0.400" flat="1" width="661" height="442" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" cylinder="1" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="661" height="442" preload="0" predecode="0"/>
+      <level width="330" height="221" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="2.2" fov="81.04" tilt="9.48"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Mộc bản 1" description="" heading="0" tags="HinhChup" comment="" nodeid="node38" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node39">
+    <input overlap="1" levelbias="0.400" flat="1" width="770" height="441" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" cylinder="1" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="770" height="441" preload="0" predecode="0"/>
+      <level width="385" height="220" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Mộc bản 2" description="" heading="0" tags="HinhChup" comment="" nodeid="node39" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node40">
+    <input overlap="1" levelbias="0.400" flat="1" width="4000" height="2250" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" cylinder="1" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="4000" height="2250" preload="0" predecode="0"/>
+      <level width="2000" height="1125" preload="0" predecode="0"/>
+      <level width="1000" height="562" preload="0" predecode="0"/>
+      <level width="500" height="281" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="4.03" fov="45.14" tilt="1.25"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 11:57 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Mô hình tỉnh Nghệ Tĩnh tặng" description="" heading="0" tags="HinhChup" comment="" nodeid="node40" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node41">
+    <input overlap="1" levelbias="0.400" flat="1" width="4000" height="2250" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" cylinder="1" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="4000" height="2250" preload="0" predecode="0"/>
+      <level width="2000" height="1125" preload="0" predecode="0"/>
+      <level width="1000" height="562" preload="0" predecode="0"/>
+      <level width="500" height="281" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="8.64" fov="45.14" tilt="14.86"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata datetime="09/11/2019 11:56 SA" latitude="" customnodeid="" author="" longitude="" source="" info="" title="Mô hình Quốc Tử Giám" description="" heading="0" tags="HinhChup" comment="" nodeid="node41" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node42">
+    <input overlap="1" levelbias="0.400" width="1924" height="1924" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="1924" height="1924" preload="0" predecode="0"/>
+      <level width="962" height="962" preload="0" predecode="0"/>
+      <level width="481" height="481" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min pan="-177" fovpixel="2" tilt="-45.351"/>
+      <max fovstereographic="270" pan="177" fovfisheye="360" fov="120" tilt="45.351"/>
+    </view>
+    <userdata datetime="09/11/2019 11:35 SA" latitude="10.44803471" customnodeid="" author="" longitude="105.63153863" source="" info="" title="Cổng vào homestay" description="" heading="0" tags="Pano2VR61" comment="" nodeid="node42" copyright=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label border="0" bordercolor="0x000000" textcolor="0x000000" width="180" borderalpha="1" background="0" enabled="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node23}" target="" pan="-36.89" title="Cầu vào làng" description="" distance="69.4796" tilt="5.43"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node1}" target="" pan="-127.37" title="Tượng cụ Nguyễn Sinh Sắc" description="" distance="33.9233" tilt="3.5"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" ambientlevel="0.000" pansize="10.000" startmutedmobile="0" level="1.000" loop="1" pan="-341.900" field="90.000" mode="3" tilt="-3.940" tiltsize="10.000" nodechangekeep="0">
+        <source url="media/ChimHot_08.mp3"/>
+      </sound>
+      <sound id="Element02" ambientlevel="0.000" pansize="10.000" startmutedmobile="0" level="1.000" loop="1" pan="-143.800" field="90.000" mode="3" tilt="-7.410" tiltsize="10.000" nodechangekeep="0">
+        <source url="media/ChimHot_06.mp3"/>
+      </sound>
+    </media>
+    <transition zoomfov="20" softedge="0" zoomin="2" type="crossdissolve" zoomout="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
+    <autorotate speed="0.400" noderandom="1" enabled="1" delay="4.00" useanimation="0" returntohorizon="0.000" nodedelay="0.00" startloaded="1" nodefilter=""/>
+    <flyintransition speed="1.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" rubberband="0" sensitivity="7" speedwheel="1" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" latitude="" customnodeid="" author="" longitude="" source="" info="" title="" description="" heading="0" tags="" comment="" nodeid="master" copyright=""/>
+  </masternode>
+  <map id="Map01" mapprovider="openstreetmap" type="web" mapstyle="streets" mapmaxzoom="18" title="" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"/>
+  <map id="Map02" mapprovider="openstreetmap" type="web" mapstyle="outdoors" mapmaxzoom="18" title="" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"/>
+</tour>
